@@ -1,0 +1,98 @@
+.top{
+	height:170px;
+    width:auto;
+    margin-left:auto;
+	margin-right:auto;
+	/*argin-top:3px;*/
+	/*margin-bottom:auto;*/
+	background-color:#A9E2F3;
+	color:#A9D0F5;
+	border-radius: 5px;
+		
+      }
+	  
+.title{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:40px;
+	font-style:italic;
+	margin-left:20px;
+	color: #000000;
+	font-weight:bold;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #e7e7e7;
+    background-color: #848484;
+}
+
+li {
+    float: left;
+	border-right:1px solid #bbb;
+}
+
+li:last-child {
+    border-right: none;
+}
+
+
+li a {
+    display: block;
+    color: #666;
+    text-align: center;
+    padding: 15px 65px;
+    text-decoration: none;
+	font-size:18px;
+	color:#ffffff;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+li a:hover{
+    background-color: #A4A4A4;
+}
+/*
+li a.active {
+    color: white;
+    background-color: #A4A4A4;
+}*/
+
+.container{
+	width:auto;
+	height:auto;
+	background-color:#D8D8D8;
+}
+
+.subtitle1{
+	font-size:25px;
+	color:#000000;
+	text-align:center;
+	padding:auto;
+	margin:auto;
+	
+}
+	
+.tftable {font-size:12px;color:#333333;width:auto;border-width: 2px;border-color: #729ea5;border-collapse: collapse;padding-left:50px;font-family: Helvetica; align:center}
+.tftable th {font-size:16px;background-color:#acc8cc;border-width: 1px;padding: 8px;border-style: solid;border-color: #729ea5;text-align:left;width:auto; font-family: Helvetica;}
+.tftable tr {background-color:#d4e3e5;font-family: Helvetica; width:auto; }
+.tftable td {font-size:14px;border-width: 1px;padding: 8px;border-style: solid;border-color: #729ea5;font-family: Helvetica;width:auto; }
+.tftable tr:hover {background-color:#ffffff;font-family: Helvetica;}
+
+.h1Search{
+	text-align: center;
+	font-size: 28px;
+    font-family: Helvetica;
+	color:#1C4E95;}
+	
+ .SubHeader1{height:40px;
+		width:600px;
+		margin: auto; 
+		padding:auto;
+		padding-top:10px;
+		background-color:#9BD6DA;
+		border-radius: 5px;
+		float:center;
+		margin-top:20px;
+		}
+
